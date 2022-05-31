@@ -1,6 +1,7 @@
-# clean_arcticture_learn
+# clean_code_architecture_with_TDD
 
-A new Flutter project.
+A new Flutter project on number trivia application
+
 
 ## Getting Started
 
